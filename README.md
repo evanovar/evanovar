@@ -23,14 +23,14 @@ A lightweight console-based tool for managing Roblox accounts efficiently with b
 
 ### 📊 GitHub Stats
 
-![Evanovar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evanovar&show_icons=true&theme=github_dark)
+![Evanovar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=evanovar&show_icons=true&theme=github_dark)<Br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evanovar&layout=compact&theme=github_dark)
 
 ---
 
 ### 💬 Connect With Me
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/evanovar)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/988642743339339786)
 
 ---
 
