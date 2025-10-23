@@ -16,7 +16,7 @@ I specialize in creating automation tools and scripts — mainly for games.
 
 ### 🚀 Featured Project
 
-#### [Roblox Account Manager Console](https://github.com/evanovar/RobloxAccountManagerConsole)
+#### [Roblox Account Manager](https://github.com/evanovar/RobloxAccountManager)
 A tool for managing Roblox accounts efficiently with built-in automation and encryption logic.
 
 ---
