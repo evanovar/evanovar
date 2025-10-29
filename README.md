@@ -2,7 +2,7 @@
 
 ### 💻 A Python and C# Developer Focused on Automation
 
-I specialize in creating automation tools and scripts — mainly for games.  
+I specialize in creating automation tools and scripts, mainly for games.  
 
 ---
 
