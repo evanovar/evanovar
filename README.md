@@ -40,13 +40,12 @@
 <h2 align="center">🌐 Connect</h2>
 
 <div align="center">
-  <a href="https://www.youtube.com/@evanovar" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" />
-  </a>
-  <a href="https://discord.gg/SZaZU8zwZA" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35" />
-  </a>
+
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@evanovar)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/SZaZU8zwZA)
+
 </div>
+
 
 <h2 align="center">📊 Stats</h2>
 
